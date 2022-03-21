@@ -3,4 +3,4 @@ Documents from the late UC Berkeley Professor and Personal Science pioneer Seth 
 
 ## Contents
 
-A PDF version of [all his blog entries](./sethrobertsblog.pdf)
+A PDF version of [all his blog entries](./SethRobertsBlogBook.pdf)
